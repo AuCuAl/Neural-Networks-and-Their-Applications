@@ -1,0 +1,21 @@
+2026-04-14 14:37:09,313 - INFO - [SimpleCNN] Epoch 1/20 - Train Loss: 1.6391, Train Acc: 43.70% | Test Loss: 0.7461, Test Acc: 77.43%
+2026-04-14 14:37:42,811 - INFO - [SimpleCNN] Epoch 2/20 - Train Loss: 1.0369, Train Acc: 66.47% | Test Loss: 0.5626, Test Acc: 83.20%
+2026-04-14 14:38:17,138 - INFO - [SimpleCNN] Epoch 3/20 - Train Loss: 0.8802, Train Acc: 72.12% | Test Loss: 0.4966, Test Acc: 85.32%
+2026-04-14 14:38:51,122 - INFO - [SimpleCNN] Epoch 4/20 - Train Loss: 0.7965, Train Acc: 74.81% | Test Loss: 0.4812, Test Acc: 85.81%
+2026-04-14 14:39:25,148 - INFO - [SimpleCNN] Epoch 5/20 - Train Loss: 0.7484, Train Acc: 76.36% | Test Loss: 0.4347, Test Acc: 87.13%
+2026-04-14 14:39:59,849 - INFO - [SimpleCNN] Epoch 6/20 - Train Loss: 0.7162, Train Acc: 77.39% | Test Loss: 0.4195, Test Acc: 88.03%
+2026-04-14 14:40:33,182 - INFO - [SimpleCNN] Epoch 7/20 - Train Loss: 0.6914, Train Acc: 78.25% | Test Loss: 0.4027, Test Acc: 88.40%
+2026-04-14 14:41:06,403 - INFO - [SimpleCNN] Epoch 8/20 - Train Loss: 0.6629, Train Acc: 79.28% | Test Loss: 0.3879, Test Acc: 89.03%
+2026-04-14 14:41:39,779 - INFO - [SimpleCNN] Epoch 9/20 - Train Loss: 0.6419, Train Acc: 79.99% | Test Loss: 0.3833, Test Acc: 88.63%
+2026-04-14 14:42:13,824 - INFO - [SimpleCNN] Epoch 10/20 - Train Loss: 0.6367, Train Acc: 80.18% | Test Loss: 0.3860, Test Acc: 88.89%
+2026-04-14 14:42:47,056 - INFO - [SimpleCNN] Epoch 11/20 - Train Loss: 0.6222, Train Acc: 80.47% | Test Loss: 0.3684, Test Acc: 89.68%
+2026-04-14 14:43:20,653 - INFO - [SimpleCNN] Epoch 12/20 - Train Loss: 0.6093, Train Acc: 80.98% | Test Loss: 0.3661, Test Acc: 89.53%
+2026-04-14 14:43:53,466 - INFO - [SimpleCNN] Epoch 13/20 - Train Loss: 0.6019, Train Acc: 81.44% | Test Loss: 0.3591, Test Acc: 89.79%
+2026-04-14 14:44:26,406 - INFO - [SimpleCNN] Epoch 14/20 - Train Loss: 0.5959, Train Acc: 81.46% | Test Loss: 0.3503, Test Acc: 89.97%
+2026-04-14 14:44:59,252 - INFO - [SimpleCNN] Epoch 15/20 - Train Loss: 0.5848, Train Acc: 81.90% | Test Loss: 0.3515, Test Acc: 90.29%
+2026-04-14 14:45:32,181 - INFO - [SimpleCNN] Epoch 16/20 - Train Loss: 0.5812, Train Acc: 81.89% | Test Loss: 0.3412, Test Acc: 90.38%
+2026-04-14 14:46:05,156 - INFO - [SimpleCNN] Epoch 17/20 - Train Loss: 0.5724, Train Acc: 82.30% | Test Loss: 0.3426, Test Acc: 90.35%
+2026-04-14 14:46:38,053 - INFO - [SimpleCNN] Epoch 18/20 - Train Loss: 0.5637, Train Acc: 82.57% | Test Loss: 0.3320, Test Acc: 90.67%
+2026-04-14 14:47:10,819 - INFO - [SimpleCNN] Epoch 19/20 - Train Loss: 0.5592, Train Acc: 82.65% | Test Loss: 0.3298, Test Acc: 90.67%
+2026-04-14 14:47:43,695 - INFO - [SimpleCNN] Epoch 20/20 - Train Loss: 0.5564, Train Acc: 82.79% | Test Loss: 0.3400, Test Acc: 91.00%
+2026-04-14 14:47:43,712 - INFO - 增强模型与历史数据 JSON 已保存。

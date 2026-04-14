@@ -5,12 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python 调试程序: 当前文件",
+            "name": "Homework 1",
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "cwd": "${workspaceFolder}/Homework 1"
+        },
+        {
+            "name": "Homework 2",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/Homework 2"
         }
     ]
 }
